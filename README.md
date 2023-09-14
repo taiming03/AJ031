@@ -4,6 +4,12 @@
   - 資訊安全目標:CIA
   - WINIDWS 初體驗: netstat | taskkill  
 - 2.LINUX 實務
+- Ｗ系統
+- 網路概論
+- 網路攻擊與威脅
+- 網路安全
+- 網站與網站應用程式
+- 網站攻擊與威脅實戰
 
 # 龍大大資安課程
 - [SecurityFoscusOnline2023](https://github.com/MyFirstSecurity2020/SecurityFoscusOnline2023)
